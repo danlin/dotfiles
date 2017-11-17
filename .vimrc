@@ -49,3 +49,12 @@ set encoding=utf-8
 let g:airline_powerline_fonts = 1
 set guifont=DejaVu\ Sans\ Mono\ 12
 
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set noexpandtab
+
+set colorcolumn=110
+highlight ColorColumn ctermbg=black
+set nowrap
+
